@@ -48,7 +48,7 @@ Finally we have the snippets section, this is where i keep all my single file co
 
 - [Caesar Cypher](https://github.com/ShaAnder/CaesarCypher)
   <br><br>
-  Discord bot application
+  Small Caesar cypher application that runs in the terminal, designed to encrypt and decrypt messages input.
   <br>
   <details>
     <summary>Preview</summary>
