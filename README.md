@@ -57,7 +57,7 @@ Finally we have the snippets section, this is where i keep all my single file co
 
 - [Higher Lower Game](https://github.com/ShaAnder/HigherLower)
   <br><br>
-  Discord bot application
+  Higher lower console based game the user must guess if a number is higher or lower than the number on display
   <br>
   <details>
     <summary>Preview</summary>
