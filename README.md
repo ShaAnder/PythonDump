@@ -10,15 +10,6 @@ those categories / sub categories.
 
 This is the ideas section, these are all projects or ideas I have started, but not strictly finished yet. I tend to try and finish whatever I start working on but it isn't always the case. If anything is not currently being worked on / is abandoned it will be marked as such in the repo shown.
 
-- []()
-  <br><br>
-  Discord bot application
-  <br>
-  <details>
-    <summary>Preview</summary>
-      <img loading="lazy" src="" height="300px">
-  </details>
-
 [To start](#welcome-to-the-python-d-u-m-p)
 
 ## Course Projects
