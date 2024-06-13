@@ -49,8 +49,7 @@ This is the finished project section. Each of these are a project I finished for
   <br>
   <details>
     <summary>Preview</summary>
-      <img loading="lazy" src="https://github.com/ShaAnder/PythonDump/assets/129494996/215f0ac6-dfe2-45e1-b170-a927ebeffa5f
-" height="300px">
+      <img loading="lazy" src="https://github.com/ShaAnder/PythonDump/assets/129494996/215f0ac6-dfe2-45e1-b170-a927ebeffa5f" height="300px">
   </details>
 
 
